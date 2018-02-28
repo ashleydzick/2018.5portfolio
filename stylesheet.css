@@ -8,7 +8,7 @@ body {
   max-width: 1200px;
 }
 h1{
-  font-size:3em;
+  font-size:2.5em;
   font-weight:400;
   padding-bottom:0.3em;
 }
@@ -63,9 +63,12 @@ figcaption{
   width:20px;
   height:20px;
 }
+
 .italics{
   font-style: italic;
 }
+/*homepage*/
+
 /*portfolio pages*/
 .small-title{
   font-size:2em;
@@ -88,5 +91,8 @@ figcaption{
      img{
        max-width:100%;
        max-height:100%;
+     }
+     body{
+       background-image: none;
      }
 }
