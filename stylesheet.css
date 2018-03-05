@@ -12,6 +12,10 @@ h1{
   font-weight:400;
   padding-bottom:0.3em;
 }
+#parrot{
+  height:30px;
+  opacity: 0.9;
+}
 h2{
   font-size:1.1em;
   line-height: 1.4em;
@@ -60,8 +64,9 @@ figcaption{
   padding-bottom:3em;
 }
 .img-icon{
-  width:20px;
-  height:20px;
+  width:25px;
+  height:25px;
+  padding-right:5px;
 }
 
 .italics{
@@ -107,3 +112,4 @@ figcaption{
        padding-bottom:.6em;
      }
 
+}
