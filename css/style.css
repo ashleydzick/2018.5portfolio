@@ -52,6 +52,12 @@ a:hover, a:focus{
 ul{
   margin-top:.5rem;
 }
-.img-icon{
+.svg-icon{
   padding-right:.5rem;
+  fill:#000;
 }
+/*
+.svg-icon:hover{
+  fill:#33861E;
+}
+*/
